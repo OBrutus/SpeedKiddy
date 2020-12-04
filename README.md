@@ -1,2 +1,2 @@
 # SpeedKiddy
-A chrome wxtension to speed up video playback speed
+A chrome extension to speed up video playback speed
